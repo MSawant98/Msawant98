@@ -1,4 +1,5 @@
 Hi there 👋
+
 I'm Manish Sawant, a passionate Data Analyst with experience in data analysis, predictive modeling, and data visualization. I excel in solving complex problems by leveraging SQL, Python, and cloud technologies to deliver actionable insights.
 
 🔭 I’m currently working on
