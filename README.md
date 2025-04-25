@@ -1,41 +1,51 @@
-Hi there 👋
+# 👋 Hi, I'm Manish Sawant
 
-I'm Manish Sawant, a passionate Data Analyst with experience in data analysis, predictive modeling, and data visualization. I excel in solving complex problems by leveraging SQL, Python, and cloud technologies to deliver actionable insights.
+🎯 Aspiring AI Model Risk Analyst | Data Scientist | ML Validation Enthusiast | Data Analyst | Business Analyst
+📍 Based in Canada | Open to remote opportunities
 
-🔭 I’m currently working on
-Economic Shifts and Public Health: Analyzing the relationship between rising food prices, spending habits, and public health risks in Canada.
+---
 
-Uncovering Key Determinants of Student Success in Education: Building predictive models to assess student performance using demographic and academic data.
+As a passionate Analyst with a strong foundation in **AI/ML modeling, model validation, and risk analytics**, I specialize in building responsible, fair, and robust models for high-stakes applications. With nearly 3 years of hands-on experience in **product and operations analytics**, I combine technical depth with a risk-aware mindset to ensure models aren't just powerful—but also safe, ethical, and reliable.
 
-🌱 I’m currently learning
-Advanced Machine Learning techniques and model optimization.
+---
 
-Transfer learning and fine-tuning CNN models in TensorFlow/Keras.
+## 🔬 Current Projects & Research Interests
 
-👯 I’m looking to collaborate on
-Data science and machine learning projects.
+### 🧠 Economic Shifts & Public Health (Streamlit App)
+Predicting diabetes and hypertension prevalence using Canadian food CPI trends.  
+📌 Focused on **model robustness**, **bias mitigation**, and **real-time interpretability**.  
+🛠️ Tech: XGBoost, Streamlit, Scikit-learn, Matplotlib
 
-Building interactive dashboards using Tableau and Power BI.
+### 🎓 Student Success Predictor
+Built ML pipelines to uncover how parental education, lunch type, and test prep affect student outcomes.  
+📌 Emphasis on **explainability** and **fairness across subgroups**.  
+🛠️ Tech: Scikit-learn, Pandas, Seaborn
 
-🤔 I’m looking for help with
-Exploring new strategies to improve the efficiency of ETL pipelines.
+---
 
-Enhancing predictive models with better feature selection techniques.
+## 🧠 What I'm Learning & Exploring
+- **Model risk frameworks**: Conceptual soundness, reproducibility, uncertainty quantification  
+- **Advanced ML**: LLMs, generative AI, anomaly detection, fairness & explainability tools  
+- **Research Integration**: Reading papers on validation strategies and bias detection  
+- **Transfer Learning**: Fine-tuning CNNs with TensorFlow/Keras for NLP and vision tasks
 
-💬 Ask me about
-Data Modeling, SQL Optimization, and ETL Pipelines.
+---
 
-Building scalable data solutions with AWS, Azure, and GCP.
+## 🤝 Let's Collaborate
+I'm excited to contribute to:
+- AI validation frameworks for banks, fintech, or insurance  
+- MLOps pipelines for risk-sensitive AI deployments  
+- Responsible AI practices, bias audits, and robustness testing
 
-📫 How to reach me:
-📧 Email: mansaw1998@gmail.com
+---
 
-💼 LinkedIn: linkedin.com/in/sawantmanish98
+## 📫 Reach Me
+- 📧 Email: mansaw1998@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/sawantmanish98](https://linkedin.com/in/sawantmanish98)  
+- 🧑‍💻 GitHub: [github.com/MSawant98](https://github.com/MSawant98)
 
-📝 GitHub: MSawant98
+---
 
-😄 Pronouns:
-He/Him
+## ⚡ Fun Fact
+I thrive at the intersection of **AI innovation** and **regulatory rigor**—and believe the future of responsible AI starts with asking the right questions. Let's build models that not only predict well, but stand up to scrutiny. 🔍📊
 
-⚡ Fun fact:
-I love exploring emerging AI technologies and automating workflows to improve efficiency! 🚀
