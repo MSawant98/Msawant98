@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Manish Sawant
 
 🎯 Aspiring AI Model Risk Analyst | Data Scientist | ML Validation Enthusiast | Data Analyst | Business Analyst
+
 📍 Based in Canada | Open to remote opportunities
 
 ---
