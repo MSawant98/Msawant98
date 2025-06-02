@@ -41,7 +41,7 @@ Data Engineering · Predictive Modeling · Machine Learning · BI Dashboarding �
 > Evaluated Salesforce's financial health and stock performance through in-depth ratio analysis, CAPM, Monte Carlo risk modeling, Prophet time-series forecasting, and technical indicator strategies, providing data-driven insights for investment decisions.
 
 🥗 **Economic Shifts & Public Health in Canada**  
-> Leveraged XGBoost to model how food prices impact diabetes and hypertension rates. Deployed as a real-time dashboard using Streamlit/Flask.
+> Leveraged XGBoost to model how food prices impact diabetes and hypertension rates. Deployed as a real-time dashboard using Streamlit.
 
 ---
 
