@@ -22,7 +22,7 @@ Enhancing predictive models with better feature selection techniques.
 
 Building scalable data solutions with AWS, Azure, and GCP.
 
-📫 How to reach me: 📧 Email: mansaw1998@gmail.com
+📫 How to reach me: 📧 Email: sawantmanish98@gmail.com
 
 💼 LinkedIn: linkedin.com/in/sawantmanish98
 
