@@ -1,33 +1,88 @@
-Hi there 👋
+# 👋 Hi there, I'm Manish Sawant!
 
-I'm Manish Sawant, a passionate Data Analyst with experience in data analysis, predictive modeling, and data visualization. I excel in solving complex problems by leveraging SQL, Python, and cloud technologies to deliver actionable insights.
+🎯 **Results-driven Data Professional** | Passionate about transforming raw data into actionable insights  
+📍 Based in Ontario, Canada | 📧 [sawantmanish98@gmail.com](mailto:sawantmanish98@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/manish-sawant-875358140/) • [GitHub](https://github.com/MSawant98)
 
-🔭 I’m currently working on Economic Shifts and Public Health: Analyzing the relationship between rising food prices, spending habits, and public health risks in Canada.
+---
 
-Uncovering Key Determinants of Student Success in Education: Building predictive models to assess student performance using demographic and academic data.
+## 💼 About Me
 
-🌱 I’m currently learning Advanced Machine Learning techniques and model optimization.
+I’m a data enthusiast with 3 years of hands-on experience across roles in **Product Analyst**, **Data Analysis**, **Operations**. My work has led to:
 
-Transfer learning and fine-tuning CNN models in TensorFlow/Keras.
+- 🔁 40% reduction in ETL pipeline processing time  
+- 📊 30% improvement in data quality and accessibility  
+- ⚙️ Streamlined reporting through automation, reducing manual effort by 20%  
+- 🧠 Machine learning models that power public health and education insights
 
-👯 I’m looking to collaborate on Data science and machine learning projects.
+I thrive at the intersection of **code, cloud, and business**, transforming complex datasets into visual stories that support informed decision-making.
 
-Building interactive dashboards using Tableau and Power BI.
+---
 
-🤔 I’m looking for help with Exploring new strategies to improve the efficiency of ETL pipelines.
+## 🔧 Skills at a Glance
 
-Enhancing predictive models with better feature selection techniques.
+**Languages & Tools**:  
+Python (Pandas, NumPy, Scikit-learn, TensorFlow), SQL, R, Java, Scala, Spark, Hadoop, Kafka, Hive
 
-💬 Ask me about Data Modeling, SQL Optimization, and ETL Pipelines.
+**Data & Cloud Platforms**:  
+Azure, AWS, GCP, Oracle, SQL Server, PostgreSQL, Snowflake, Redshift, Airflow
 
-Building scalable data solutions with AWS, Azure, and GCP.
+**Visualization & Reporting**:  
+Power BI, Tableau, Excel, Cognos, Streamlit, Flask
 
-📫 How to reach me: 📧 Email: sawantmanish98@gmail.com
+**Core Competencies**:  
+Data Engineering · Predictive Modeling · Machine Learning · BI Dashboarding · Statistical Analysis · Data Warehousing · ETL Automation · Cross-functional Collaboration
 
-💼 LinkedIn: linkedin.com/in/sawantmanish98
+---
 
-📝 GitHub: MSawant98
+## 📌 Featured Projects
 
-😄 Pronouns: He/Him
+🔍 **Uncovering Key Determinants of Student Success**  
+> Built predictive models using scikit-learn to analyze factors like parental education and test prep, helping schools personalize academic interventions.
 
-⚡ Fun fact: I love exploring emerging AI technologies and automating workflows to improve efficiency! 🚀
+🥗 **Economic Shifts & Public Health in Canada**  
+> Leveraged XGBoost to model how food prices impact diabetes and hypertension rates. Deployed as a real-time dashboard using Streamlit/Flask.
+
+---
+
+## 💼 Work Experience
+
+**Product Analyst @ Exxat Pvt Ltd (2022 – 2023)**  
+- Automated and optimized SQL pipelines, reducing processing times  
+- Conducted EDA on product data, improving team insights and decision-making  
+- Integrated Oracle and Azure Cosmos DB data for unified analytics
+
+**Jr. Operations Analyst @ Stemmons Business Service (2020 – 2022)**  
+- Built SQL-based reports and visual dashboards in Power BI/Tableau  
+- Enhanced data integrity and developed scalable ETL pipelines  
+- Delivered insights that helped streamline internal operations
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Postgraduate Diploma in Data Analytics for Business** — *St. Clair College (2023–2025)*  
+🎓 **B.E. in Computer Engineering** — *GTU – Babaria Institute of Technology (2017–2020)*  
+
+📜 Certifications:  
+- Google Data Analytics (Coursera)  
+- SQL for Data Science (Coursera)  
+- Bayesian Data Analysis in Python (DataCamp)  
+- AI Associate (Salesforce)  
+- Prompt Engineering (LinkedIn)  
+- Agile & Requirements Analysis (LinkedIn)
+
+---
+
+## 📫 Let's Connect
+
+I’m actively seeking opportunities in **Data Engineering**, **Business Analytics**, or **Machine Learning**.  
+If you're looking for someone who can **analyze, engineer, and explain data**, let's talk!
+
+➡️ [📧 sawantmanish98@gmail.com](mailto:sawantmanish98@gmail.com)  
+➡️ [🔗 LinkedIn](https://www.linkedin.com/in/manish-sawant-875358140/)  
+➡️ [🐙 GitHub](https://github.com/MSawant98)
+
+---
+
+_Thank you for visiting! 🚀_
