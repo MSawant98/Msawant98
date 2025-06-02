@@ -2,18 +2,18 @@
 
 🎯 **Results-driven Data Professional** | Passionate about transforming raw data into actionable insights  
 📍 Based in Ontario, Canada | 📧 [sawantmanish98@gmail.com](mailto:sawantmanish98@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/manish-sawant-875358140/) • [GitHub](https://github.com/MSawant98)
+🔗 [LinkedIn](https://www.linkedin.com/in/manish-sawant-875358140/) 
 
 ---
 
 ## 💼 About Me
 
-I’m a data enthusiast with 3 years of hands-on experience across roles in **Product Analyst**, **Data Analysis**, **Operations**. My work has led to:
+I’m a data enthusiast with 3 years of hands-on experience across roles in **Product Analyst**, **Data Analysis**, **Operations Analyst**. My work has led to:
 
 - 🔁 40% reduction in ETL pipeline processing time  
 - 📊 30% improvement in data quality and accessibility  
 - ⚙️ Streamlined reporting through automation, reducing manual effort by 20%  
-- 🧠 Machine learning models that power public health and education insights
+- 🧠 Machine learning models that power public health and financial forecasts
 
 I thrive at the intersection of **code, cloud, and business**, transforming complex datasets into visual stories that support informed decision-making.
 
@@ -37,8 +37,8 @@ Data Engineering · Predictive Modeling · Machine Learning · BI Dashboarding �
 
 ## 📌 Featured Projects
 
-🔍 **Uncovering Key Determinants of Student Success**  
-> Built predictive models using scikit-learn to analyze factors like parental education and test prep, helping schools personalize academic interventions.
+📈 **Salesforce Financial Analysis & Forecasting**  
+> Evaluated Salesforce's financial health and stock performance through in-depth ratio analysis, CAPM, Monte Carlo risk modeling, Prophet time-series forecasting, and technical indicator strategies, providing data-driven insights for investment decisions.
 
 🥗 **Economic Shifts & Public Health in Canada**  
 > Leveraged XGBoost to model how food prices impact diabetes and hypertension rates. Deployed as a real-time dashboard using Streamlit/Flask.
@@ -81,7 +81,6 @@ If you're looking for someone who can **analyze, engineer, and explain data**, l
 
 ➡️ [📧 sawantmanish98@gmail.com](mailto:sawantmanish98@gmail.com)  
 ➡️ [🔗 LinkedIn](https://www.linkedin.com/in/manish-sawant-875358140/)  
-➡️ [🐙 GitHub](https://github.com/MSawant98)
 
 ---
 
